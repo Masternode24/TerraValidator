@@ -1,5 +1,5 @@
-- 👋 Hi, I’m *@TerraValidator*
+- 👋 Hi, I’m *Oleg Pahl*
 - 👀 I’m interested in **Crypto/Blockchain**
 - 🌱 I’m currently learning **GoLang/JS**
 - 💞️ I’m looking to collaborate on **[ Terra Project ]**
-- 📫 How to reach me : node@tothemoon.uno
+- 📫 How to reach me : oleg@masternode24.de
